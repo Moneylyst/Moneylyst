@@ -125,7 +125,13 @@ html
     top: -10vw;
 }
 
-
+#home
+{
+    position: absolute;
+    top: 5%;
+    left: 7%;
+    
+}
 @media(min-width:750px)
 {
 
