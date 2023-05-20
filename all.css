@@ -1,0 +1,89 @@
+*{
+
+-webkit-tap-highlight-color: rgba(255, 255, 255,
+
+0) !important;
+
+-webkit-focus-ring-color: rgba(255, 255, 255, 0)! important;
+
+outline: none !important;
+
+}
+
+html
+{
+    justify-content: center;
+    scroll-behavior: smooth;
+}
+
+
+.stick
+{
+    background-color: white;
+    border-radius:50vw;
+    color:white;
+    min-height:20vw;
+    min-width:64vw;
+    text-indent:middle ;
+    margin-top:973vw;
+    margin-left:16vw;
+    margin-bottom:8%;
+    border:1vw solid black;
+    position:fixed;
+    bottom:0;
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    
+    
+    
+    
+}
+
+
+
+
+
+#reward
+{
+    position:absolute ;
+    bottom:20%;
+    left:50%;
+    width: 35%;
+    height: 24%;
+    
+}
+
+#reward1
+{
+
+    position:absolute ;
+    bottom:25%;
+    left:-40%;
+    width: 75%;
+    height: 308%;
+    top: -200%;
+    
+    
+}
+
+
+
+#help
+{
+    position: absolute;
+    left: 10vw;
+    width: 20vw;
+    height: 15vw;
+    top: -10vw;
+}
+
+
+#home
+{
+    position: absolute;
+    top: 5%;
+    left: 7%;
+    
+}
+
