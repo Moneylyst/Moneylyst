@@ -22,6 +22,7 @@ h1
 h3 
 {
    font-size: 7vw;
+   margin-left: 6vw;
    
 }
 
@@ -41,6 +42,7 @@ h4
 #para 
 {
     font-size: 6vw;
+    padding-left: 5vw;
    /* display:grid;
     place-items:center; */
 }
