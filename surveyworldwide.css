@@ -56,13 +56,10 @@ ol
 
 table 
 {
- /* min-width: 5vw;
-  min-height: 25vw;
-  text-align:center;
-  display: flex;*/
+ 
     color:black;
     min-height:20vw;
-    min-width:89vw;
+    min-width:95vw;
     text-indent:middle ;
     margin-top:10vw;
     margin-left:5px;
